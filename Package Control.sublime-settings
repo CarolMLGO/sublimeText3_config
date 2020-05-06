@@ -1,0 +1,22 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Babel",
+		"Color Highlight",
+		"ColorPicker",
+		"Emmet",
+		"HTML-CSS-JS Prettify",
+		"Material Theme",
+		"Oceanic Next Color Scheme",
+		"Oceanic Next Italic Color Scheme",
+		"Package Control",
+		"Sass",
+		"SideBarEnhancements",
+		"TypeScript"
+	]
+}
